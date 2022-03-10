@@ -1,0 +1,462 @@
+@media only screen and (max-width: 1270px) {
+    .main-content {
+        padding: 0 70px;
+    }
+
+    .righ-content {
+        width: 58%;
+    }
+}
+
+@media only screen and (max-width: 1176px) {
+    .overlay-2 p {
+        width: 64%;
+        padding-left: 115px;
+    }
+}
+
+@media only screen and (max-width: 1132px) {
+    .second-section {
+        height: 462px;
+    }
+
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .display-none {
+        display: none;
+    }
+
+    .nav-bar-left {
+        width: 50%;
+    }
+
+    .nav-bar-right {
+        width: 50%;
+        display: flex;
+        justify-content: end;
+    }
+
+    .head-nav {
+        padding: 0 30px;
+    }
+
+    .overlay-content {
+        height: 330px;
+    }
+
+    .second-section {
+        height: 400px;
+    }
+
+    .fourth-section-content {
+        text-align: center;
+        padding: 0 28px;
+    }
+
+    .fourth-section-content span {
+        bottom: 175px;
+    }
+
+    .fourth-section,
+    .sixth-section {
+        height: 450px;
+    }
+
+    .block a {
+        font-weight: normal;
+    }
+
+
+
+    .banner-content {
+        padding: 0px 80px;
+        text-align: center;
+    }
+
+    .eighth-section h2 {
+        font-size: 32px;
+    }
+
+    .licensing {
+        display: none;
+    }
+
+    .svg-icon {
+        flex-direction: column;
+    }
+
+    /* .sec-sect-content h2 {
+            font-size: 28px;
+        } */
+
+    .right-content {
+        width: 50%;
+    }
+
+    .left-content {
+        width: 50%;
+    }
+
+    .sec-sect-content h2 {
+        font-size: 22px;
+    }
+
+    .overlay-2 p {
+        padding-left: 110px;
+    }
+
+    .quote h2 {
+        font-size: 24px;
+    }
+
+}
+
+@media only screen and (max-width: 855px) {
+    .dis-none {
+        display: none;
+    }
+
+    .dis-block {
+        display: block;
+        font-size: 25px;
+    }
+
+    .collection h2 {
+        font-size: 28px;
+    }
+
+    .collection {
+        padding: 0 12px;
+    }
+
+    .ft-block {
+        width: 18%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .second-section {
+        height: 328px;
+    }
+
+    .overlay-content {
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .overlay-content h1 {
+        text-align: center;
+    }
+
+    .overlay-content {
+        top: 12%;
+    }
+
+    .overlay-content p {
+        text-align: center;
+    }
+
+    .eighth-section p {
+        padding: 0 18px;
+        font-size: 14px;
+    }
+
+    .ninth-section {
+        padding: 0 42px;
+    }
+
+    .ft-block {
+        min-width: 165px;
+    }
+
+    .sec-sect-content h2 {
+        font-size: 22px;
+    }
+
+    .left-content {
+        width: 50%;
+    }
+
+    .right-content {
+        width: 50%;
+    }
+
+    .overlay-3 {
+        padding-left: 132px;
+    }
+}
+
+
+
+@media only screen and (max-width: 767px) {
+    .btn-none {
+        display: block;
+    }
+
+    .block-row {
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .block {
+        width: 100%;
+    }
+
+    .collection h2 {
+        font-size: 24px;
+    }
+
+    .collection-btn {
+        max-width: 220px;
+        padding: 12px 0;
+        font-size: 20px;
+
+    }
+
+    .ft {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    /* .ft-1 {
+        display: flex;
+        justify-content: center;
+    } */
+
+    .licensing {
+        display: none;
+    }
+
+
+    .overlay-2 p {
+        padding-left: 88px;
+    }
+
+
+    .main-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .left-content {
+        width: 100%;
+    }
+
+    .sec-sect-content {
+        text-align: center;
+    }
+
+    .sec-sect-content p {
+        text-align: center;
+    }
+
+    .right-content {
+        width: 100%;
+        padding-top: 50px;
+    }
+
+    .overlay-2 {
+        top: -10px;
+    }
+
+    .left-section {
+        width: 100%;
+        margin-bottom: 80px;
+    }
+
+    .right-section {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .reverse-content {
+        flex-direction: column-reverse;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 668px) {
+    .collection h2 {
+        font-size: 24px;
+    }
+
+    .quote h2 {
+        font-size: 15px;
+        line-height: 20px;
+        font-weight: normal;
+    }
+
+    .ninth-section {
+        padding: 0 10px;
+    }
+
+    .block h3 {
+        font-size: 23px;
+    }
+
+    .block a {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 543px) {
+    .collection h2 {
+        font-size: 20px;
+    }
+
+    .collection p {
+        font-size: 15px;
+    }
+
+    .eleventh-section {
+        padding: 0 40px;
+    }
+
+    .overlay-1 {
+        width: 60%;
+    }
+
+    .overlay-2 {
+        width: 60%;
+    }
+
+    .righ-content p {
+        font-size: 9px;
+        padding-left: 100px;
+    }
+
+    .overlay-2 {
+        top: -20px;
+        right: -6px;
+    }
+
+    .right-content {
+        width: 95%;
+        padding: 50px 1px 0px 1px !important;
+    }
+
+    .main-content {
+        padding: 0 5px;
+    }
+}
+
+@media only screen and (max-width: 440px) {
+    .eighth-section h2 {
+        font-size: 26px;
+    }
+
+    .ft-side-end li {
+        padding: 0 10px;
+    }
+}
+
+@media only screen and (max-width: 429px) {
+    .overlay-content h1 {
+        font-size: 35px;
+        line-height: 35px;
+    }
+}
+
+@media only screen and (max-width: 413px) {
+    .head-nav {
+        padding: 0;
+    }
+
+    .ft-side-end li {
+        padding: 0 4px;
+    }
+
+    .eleventh-section {
+        padding: 0 10px;
+    }
+}
+
+@media only screen and (max-width: 397px) {
+    .overlay-2 p {
+        padding-left: 80px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .overlay-1 {
+        width: 60%;
+    }
+
+    .overlay-2 {
+        width: 60%;
+    }
+
+    .overlay-2 p {
+        width: 70%;
+        padding-left: 50px;
+    }
+
+    .left-section p {
+        font-size: 8px;
+    }
+}
+
+
+@media only screen and (max-width: 371px) {
+    .overlay-2 p {
+        padding-left: 50px;
+    }
+}
+
+
+
+@media only screen and (max-width: 375px) {
+    .banner-content h2 {
+        font-size: 32px;
+    }
+
+
+    .banner-content p {
+        font-size: 12px;
+    }
+
+    .eighth-section h2 {
+        font-size: 24px;
+    }
+
+    /* .overlay-1 {
+        width: 50%;
+    }
+
+    .overlay-2 {
+        width: 50%;
+    } */
+
+    .right-content p {
+        font-size: 5px;
+    }
+
+}
+
+
+@media only screen and (max-width: 361px) {
+    .btn {
+        height: 40px;
+    }
+
+    .ft-block {
+        min-width: 140px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .nav-bar input {
+        padding-right: 0;
+    }
+}
